@@ -10,5 +10,5 @@ collection = [1, 2, 3, 4]
   end
   
   my_each(collection) do
-  
-end
+    puts 
+  end
