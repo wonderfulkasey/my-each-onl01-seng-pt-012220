@@ -1,7 +1,9 @@
 collection = [1, 2, 3, 4]
 
-def my_each # put argument(s) here
+  def my_each # put argument(s) here
 
-while
+  while
   # code here
+  end
+  
 end
