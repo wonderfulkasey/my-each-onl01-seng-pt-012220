@@ -7,4 +7,6 @@ collection = [1, 2, 3, 4]
   # code here
   end
   
+  my_each(collection) do
+  
 end
