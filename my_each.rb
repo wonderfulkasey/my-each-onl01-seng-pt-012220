@@ -6,6 +6,7 @@ collection = [1, 2, 3, 4]
   puts "#{collection}"
   # code here
   yield
+  puts 
   end
   
   my_each(collection) do
