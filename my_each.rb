@@ -5,6 +5,7 @@ collection = [1, 2, 3, 4]
   #while
   puts "#{collection}"
   # code here
+  yield
   end
   
   my_each(collection) do
