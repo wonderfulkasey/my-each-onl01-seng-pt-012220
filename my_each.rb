@@ -9,6 +9,6 @@ collection = [1, 2, 3, 4]
   
   end
   
-  array do
+  array
     
   end
